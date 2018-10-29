@@ -1,12 +1,12 @@
-h1 {color: blue; font-family: sans-serif; text-transform: uppercase; text-align: center;}
-body {background-color: pink}
+h1 {color: #2113FF; font-family: sans-serif; text-transform: uppercase; text-align: center;}
+body {background-color: #FB8DCA}
 
-h2 {color: red}
+h2 {color: #FF0000}
 
-p {color: white}
+p {color: #FFE8FF}
 
-ul {color: purple; }
+ul {color: #8A2D76; }
 
-a {color: orange}
+a {color: #FB5C36}
 
-h5 {color: green; text-decoration: underline #D80BFF}
+h5 {color: #2C8616; text-decoration: underline #D80BFF}
