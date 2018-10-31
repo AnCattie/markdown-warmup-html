@@ -1,5 +1,5 @@
 h1 {color: #2113FF; font-family: sans-serif; text-transform: uppercase; text-align: center;}
-body {background-color: #FB8DCA}
+body {background-color: #FB8DCA; text-align: justify;}
 
 h2 {color: #FF0000}
 
@@ -7,6 +7,6 @@ p {color: #FFE8FF}
 
 ul {color: #8A2D76; }
 
-a {color: #FB5C36}
+a {color: #FB5C36; border-style: inset;}
 
-h5 {color: #2C8616; text-decoration: underline #D80BFF}
+h5 {color: #2C8616; text-decoration: underline #D80BFF; overflow: auto;}
