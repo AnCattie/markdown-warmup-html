@@ -1,14 +1,14 @@
 h1 {color: #2113FF; font-family: sans-serif; text-transform: uppercase; text-align: center;}
-body {background-color: #FB8DCA; text-align: justify;}
+body {background-image: url("http://imagepacific.com/wp-content/uploads/2017/12/about-us-background-images-for-website-2.jpg"); background-size: 50cm 30cm; text-align: justify;}
 
-h2 {color: #FF0000}
+h2 {color: 	#EEE8AA}
 
-p {color: #FFE8FF}
+p {color: #FFC0CB}
 
-ul {color: #8A2D76; }
+ul {color: #D8BFD8; }
 
 a {color: #FB5C36; border-style: inset;}
 
-h5 {color: #2C8616; text-decoration: underline #D80BFF; overflow: auto;}
+h5 {color: #FFFAF0; text-decoration: underline #D80BFF; overflow: auto;}
 
 img {width: 20cm; margin: auto; border: 3px; float: right; box-shadow: 1cm 1cm yellow; opacity: 0.6; border-radius: 44px}
