@@ -9,6 +9,6 @@ ul {color: #D8BFD8; }
 
 a {color: #FB5C36; border-style: inset;}
 
-h5 {color: #FFFAF0; text-decoration: underline #D80BFF; overflow: auto;}
+h5 {color: #FFFAF0; text-decoration: underline #D80BFF; overflow: auto; text-align: right}
 
 img {width: 20cm; margin: auto; border: 3px; float: right; box-shadow: 1cm 1cm yellow; opacity: 0.6; border-radius: 44px}
